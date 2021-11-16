@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @Lyraad
+- 👋 Hi, I’m @darylchewett
 - 👀 I’m interested in ... Videogames and Photography
 - 🌱 I’m currently learning ... HTML/CSS/JS/VueJS 3/NodeJS/React and OpenEdge ABL
+- 🌐 http://darylchewett.com - Under construction
