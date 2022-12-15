@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @darylchewett
 - 👀 I’m interested in ... Videogames and Photography
-- 🌱 I’m currently learning ... HTML/CSS/JS/VueJS 3/NodeJS/React/C#/Unity and OpenEdge ABL
+- 🌱 I’m currently learning ... HTML/CSS/JS/VueJS 3/NodeJS/React/ElectronJS/Svelte (SvelteKit)/C#/Unity and OpenEdge ABL
 - 🌐 https://darylch.me - Under construction
